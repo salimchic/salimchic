@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salimchic
-- 🌱 I’m currently learning mathematics, programming in HTML, Python, JavaScript, C++
+- 🌱 I’m currently learning mathematics, HTML, programming in Python, JavaScript, C++
 
 <!---
 salimchic/salimchic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
